@@ -17,7 +17,7 @@ N = 256
 
 #### Compute spectral rotation angle given r, c (real and complex parts)
 
-<img height="400" width="400" src="./figures/f1.PNG" />
+<img height="400" width="400" src="./figures/f1.png" />
 
 
 ```python
@@ -32,7 +32,7 @@ def spectral_rotation_angle(r, c):
 
 #### Computing spectral deviation angle
 
-<img height="400" width="400" src="./figures/f3.PNG" />
+<img height="400" width="400" src="./figures/f3.png" />
 
 
 ```python
@@ -81,7 +81,7 @@ def compute_spectral_deviation_angle(p1, p2, p3):
 
 #### Compute sector index
 
-<img height="400" width="400" src="./figures/f2.PNG" />
+<img height="400" width="400" src="./figures/f2.png" />
 
 
 ```python
